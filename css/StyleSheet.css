@@ -1,0 +1,52 @@
+﻿@charset "utf-8";
+body
+{
+}
+.nav_div {
+    width: 30%;
+    float: left;
+    border-top-width: thin;
+    border-top-style: solid;
+    border-right-width: thin;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-left-width: thin;
+    text-indent: 3px;
+}
+
+.nav_ul {
+    width: 100%;
+    background-color: #A1D7E5;
+    list-style-type: none;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    margin-left: 0;
+}
+.intro_paragraph {
+    width: 97%;
+    float: none;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    clear: none;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.paragraph_text {
+    width: 50%;
+    display: block;
+    float: right;
+    vertical-align: top;
+    clear: right;
+}
+
+.footer_div {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: small;
+    text-align: center;
+    background-color: #FFD9A8;
+    margin-top: 10px;
+}
+
+.img_div {
+    margin-top: 10px;
+    text-align: center;
+
